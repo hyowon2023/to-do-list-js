@@ -1,6 +1,6 @@
 ## To do list
 
-![Screenshot 2023-07-27 at 16 52 57](https://github.com/hyowon2023/to-do-list-js/assets/136059100/866b65dc-85be-445d-a8c4-3c563dec5b98)
+![Screenshot 2023-07-27 at 17 22 06](https://github.com/hyowon2023/to-do-list-js/assets/136059100/b222f62f-efd7-4c76-a917-c0476adc330a)
 
 ## 기능
 
