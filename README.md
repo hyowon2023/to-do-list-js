@@ -1,4 +1,6 @@
-## to do list
+## To do list
+
+![Screenshot 2023-07-27 at 16 52 57](https://github.com/hyowon2023/to-do-list-js/assets/136059100/866b65dc-85be-445d-a8c4-3c563dec5b98)
 
 ## 기능
 
