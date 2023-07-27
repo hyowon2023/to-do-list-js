@@ -22,19 +22,25 @@ body {
 }
 #under-line {
   height: 4px;
-  background-color: pink;
+  background-color: #8fbc8b;
   position: absolute;
-  width: 70px;
+  width: 60px;
   left: 0;
-  top: 52px;
+  top: 44px;
   padding: 0;
+  transition: 0.5s;
 }
 .task-tabs div {
   padding: 1em;
+  cursor: pointer;
 }
 
 .task {
   display: flex;
   justify-content: space-between;
   padding: 1em;
+}
+
+.task-done {
+  text-decoration: line-through;
 }

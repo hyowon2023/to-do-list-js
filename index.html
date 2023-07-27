@@ -17,21 +17,18 @@
     <div class="container">
       <h1>To do List</h1>
       <section class="input-area">
-        <input type="text" />
-        <button>+</button>
+        <input type="text" id="task-input" />
+        <button id="add-btn">+</button>
       </section>
 
       <section class="task-area">
         <div class="task-tabs">
           <div id="under-line"></div>
-          <div>모두</div>
-          <div>진행중</div>
-          <div>끝남</div>
+          <div id="all">All</div>
+          <div id="ongoing">Ongoing</div>
+          <div id="done">Done</div>
         </div>
-        <div class="task">
-          <div>task</div>
-          <div><button>check</button><button>delete</button></div>
-        </div>
+        <div id="task-board"></div>
       </section>
     </div>
     <script
